@@ -22,7 +22,7 @@ public Plugin myinfo =
 	name = "GameCMS System",
 	author = "BaFeR",
 	description = "GameCMS System for server",
-	version = "1.0 [PRIVATE]"
+	version = "1.1 [PUBLIC]"
 };
 
 public void OnPluginStart()
